@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Deshmukh</h1>
-<h3 align="center">A curious mind with a deep love for both the the awe-inspiring wonders of science and captivating mysteries of fiction.</h3>
+<h3 align="center">A curious mind with a deep love for both the the inspiring wonders of science and captivating mysteries of fiction.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva1763&label=Profile%20views&color=0e75b6&style=flat" alt="atharva1763" /> </p>
 
